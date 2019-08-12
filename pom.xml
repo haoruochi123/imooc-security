@@ -9,7 +9,9 @@
 
 	<properties>
 		<imooc.security.version>1.0.0-SNAPSHOT</imooc.security.version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+
 	<!-- 依赖管理 -->
 	<dependencyManagement>
 		<dependencies>
